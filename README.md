@@ -1,5 +1,5 @@
 # op-mutation
-experiments in mixed-boolean arithmetic obfuscation 
+experiments in mixed-boolean arithmetic obfuscation -- please excuse the utter garbage code thanks
 
 # what is mixed-boolean arithmetic?
 a term some people smarter than me coined for arithmetic expressions that contain both traditional boolean algebra (and, or, not) and arithmetic (add, sub, mul) operators
